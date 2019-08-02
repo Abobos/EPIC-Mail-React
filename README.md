@@ -1,6 +1,6 @@
 # EPIC-Mail-React
 
-EPIC Mail React is a web application that enables individuals to send messages seamlessly over the internet. The front-end of this application is built with Pure React, an it is powered by my [EPIC-Mail](https://epicmail11.herokuapp.com/api/v1/docs) REST API.
+EPIC Mail React is a web application that enables individuals to send messages seamlessly over the internet. The front-end of this application is built with Pure React, and powered by my [EPIC-Mail](https://epicmail11.herokuapp.com/api/v1/docs) REST API.
 
 ## Features
 
