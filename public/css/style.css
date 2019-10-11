@@ -348,10 +348,13 @@ div.feedback {
   border-radius: 50%;
 }
 
-.message p {
-  white-space: nowrap;
-  text-overflow: ellipsis;
+.details {
   overflow: hidden;
+}
+
+.message-details {
+  white-space: nowrap;
+  text-overflow: ellipsis !important;
 }
 .fa-pencil {
   font-size: 1.1rem !important;

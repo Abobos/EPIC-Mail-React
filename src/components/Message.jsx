@@ -31,7 +31,7 @@ const Message = props => {
                 <div>
                   <b>{message.subject}</b>
                 </div>
-                <p>{message.message}</p>
+                <div className="message-details">{message.message}</div>
               </div>
             </div>
           );
